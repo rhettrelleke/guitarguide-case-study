@@ -11,9 +11,11 @@ App Store: [Download on iOS](https://apps.apple.com/us/app/guitarguide/id6753149
 Google Play: [Download on Android](https://play.google.com/store/apps/details?id=app.guitarguide.mobile)
 
 ## Preview
-![Building a progression in context](assets/screenshots/progression-builder.png)
-![Exploring chord options](assets/screenshots/chord-explorer.png)
-![Custom tuning workflow](assets/screenshots/tuning-workflow.png)
+<p align="center">
+  <img src="assets/screenshots/chord-explorer.png" alt="Exploring chord options" width="30%" />
+  <img src="assets/screenshots/progression-builder.png" alt="Building a progression in context" width="30%" />
+  <img src="assets/screenshots/tuning-workflow.png" alt="Custom tuning workflow" width="30%" />
+</p>
 
 ## What GuitarGuide Is
 GuitarGuide is built around a simple idea: songwriting tools should help players stay in motion. Instead of jumping between chord charts, notes, and voice memos, GuitarGuide keeps chord exploration, progression building, playback, and tuning-aware writing in one focused workflow.
