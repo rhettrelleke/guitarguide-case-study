@@ -72,9 +72,3 @@ If you're exploring this repo for the first time:
 - [`ARCHITECTURE_AT_A_GLANCE.md`](ARCHITECTURE_AT_A_GLANCE.md)
 - [`REPOSITORY_SCOPE.md`](REPOSITORY_SCOPE.md)
 - [`PUBLISHING_CHECKLIST.md`](PUBLISHING_CHECKLIST.md)
-
-## Visual Assets
-Place curated public assets in:
-- `assets/screenshots/`
-- `assets/diagrams/`
-- `assets/brand/`
