@@ -71,4 +71,3 @@ If you're exploring this repo for the first time:
 - [`UX_NOTES.md`](UX_NOTES.md)
 - [`ARCHITECTURE_AT_A_GLANCE.md`](ARCHITECTURE_AT_A_GLANCE.md)
 - [`REPOSITORY_SCOPE.md`](REPOSITORY_SCOPE.md)
-- [`PUBLISHING_CHECKLIST.md`](PUBLISHING_CHECKLIST.md)
